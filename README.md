@@ -56,7 +56,7 @@ I bridge the gap between AI development and reliable cloud operations — design
 
 ## 📍 Currently
 
-- 🌍 Based in the **USA**, relocating to **GCC** (UAE · Saudi Arabia · Qatar) in **2026**
+- 🌍 Based in the **USA**, relocating to **Australia** in **2027**
 - 🔭 Building a production-grade DevOps & AI portfolio
 - 📚 Completing MS in Artificial Intelligence (graduating Sept 2026)
 - 💬 Open to **Cloud Engineer**, **Junior DevOps**, and **AI Infrastructure** roles
