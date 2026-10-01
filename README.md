@@ -1,10 +1,11 @@
 # Hi, I'm Muathaf 👋
 
-### Cloud & AI Engineer · Dual MS · Relocating to GCC 2026
+Cloud Infrastructure Engineer | Systems Administrator | Dual MS in AI & IT
 
-I'm an engineer with dual master's degrees in **Artificial Intelligence** and **Information Technology**, building toward a career in Cloud, DevOps, and AI infrastructure in the GCC region.
+**Open to relocate immediately** | Ready for Cloud Infrastructure, DevOps, or Systems Administration roles
 
-I bridge the gap between AI development and reliable cloud operations — designing systems that are automated, scalable, and production-ready.
+I build reliable cloud infrastructure. AWS, Kubernetes, Linux, Python, CI/CD. 
+Experienced in production environments. Always learning.
 
 ---
 
